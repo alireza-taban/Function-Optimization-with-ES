@@ -1,1 +1,1 @@
-# Video-Classification
+# Function optimization with Evolutionary Strategies
